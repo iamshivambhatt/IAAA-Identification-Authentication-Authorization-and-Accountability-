@@ -1,0 +1,45 @@
+
+Host Name:                 SHIVAM01
+OS Name:                   Microsoft Windows Server 2022 Datacenter
+OS Version:                10.0.20348 N/A Build 20348
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Primary Domain Controller
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:   
+Product ID:                00456-50938-33047-AA742
+Original Install Date:     9/5/2025, 12:27:12 AM
+System Boot Time:          9/18/2025, 5:02:43 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware20,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 154 Stepping 3 GenuineIntel ~2496 Mhz
+                           [02]: Intel64 Family 6 Model 154 Stepping 3 GenuineIntel ~2496 Mhz
+BIOS Version:              VMware, Inc. VMW201.00V.24006586.B64.2406042154, 6/4/2024
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-07:00) Mountain Time (US & Canada)
+Total Physical Memory:     7,127 MB
+Available Physical Memory: 5,275 MB
+Virtual Memory: Max Size:  8,919 MB
+Virtual Memory: Available: 7,209 MB
+Virtual Memory: In Use:    1,710 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    Shivam.local
+Logon Server:              \\SHIVAM01
+Hotfix(s):                 3 Hotfix(s) Installed.
+                           [01]: KB5028858
+                           [02]: KB5028171
+                           [03]: KB5028317
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.172.100
+                                 [02]: fe80::196d:732b:573b:bb7c
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
